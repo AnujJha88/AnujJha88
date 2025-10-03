@@ -78,6 +78,19 @@ I’m here to learn from, contribute to, and grow with the community. If you hav
 
 ---
 
+---
+
+### 🎨 What I Build
+
+<div align="center">
+  (https://xeno985.github.io/random_gifs/bruh.html)
+</div>
+
+---
+
+### 🚀 My Tech Stack
+
+
 ### 🌐 Connect with Me
 
 -   Find me on [LinkedIn](https://www.linkedin.com/in/anuj-jha-0a6146285/) and [Twitter/X](https://x.com/AnujJha571205).
