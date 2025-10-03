@@ -83,7 +83,7 @@ I’m here to learn from, contribute to, and grow with the community. If you hav
 ### 🎨 What I Build
 
 <div align="center">
-  (https://xeno985.github.io/random_gifs/bruh.html)
+  [](https://xeno985.github.io/random_gifs/bruh.html)
 </div>
 
 ---
