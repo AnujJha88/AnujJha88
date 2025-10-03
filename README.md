@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
   
   <h1 align="center">Hey, I'm Anuj Jha 👋</h1>
   
@@ -75,16 +75,6 @@ I’m here to learn from, contribute to, and grow with the community. If you hav
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnujJha88&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Anuj's GitHub Trophies" />
 </p>
-
----
-
----
-
-### 🎨 What I Build
-
-<div align="center">
-  [](https://xeno985.github.io/random_gifs/bruh.html)
-</div>
 
 ---
 
